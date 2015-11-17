@@ -16,6 +16,8 @@ public class Homepage extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_homepage);
 
+        //Code Orange
+
         ArrayList<County> counties = new ArrayList<County>();
 
         counties.add(new County("Adams","","Yes","Yes","Yes","Yes","Yes","Yes","Yes","1,2,3,4,5,7","http://iwanttoberecycled.org/"));
