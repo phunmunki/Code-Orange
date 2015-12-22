@@ -24,9 +24,9 @@ public class County implements Serializable{
         this.name = name;
     }
 
-    public County(String name, String facility, String isSingleStream, String canRecycleBrownGlass, String canRecycleGreenGlass, String canRecycleClearGlass, String canRecyclePaper, String canRecycleCardboard, String canRecycleCans, String plasticRecyclingTypes, String websiteLink) {
+    public County(String name, String isSingleStream, String canRecycleBrownGlass, String canRecycleGreenGlass, String canRecycleClearGlass, String canRecyclePaper, String canRecycleCardboard, String canRecycleCans, String plasticRecyclingTypes, String websiteLink) {
         this.name = name;
-        this.facility = facility;
+        this.facility = "";
         this.isSingleStream = isSingleStream;
         this.canRecycleBrownGlass = canRecycleBrownGlass;
         this.canRecycleGreenGlass = canRecycleGreenGlass;
