@@ -9,18 +9,11 @@
         <dex dex="C:\Users\Amy\Desktop\Code-Orange\app\build\intermediates\pre-dexed\debug\classes-4b0fa6f2d43f5ca23d7649e15d841ec3a78da94e.jar" />
     </item>
     <item
-        jar="C:\Users\Amy\Desktop\WI Recycle\CodeOrange\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jar="C:\Users\Amy\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="C:\Users\Amy\Desktop\WI Recycle\CodeOrange\app\build\intermediates\pre-dexed\release\internal_impl-22.2.1-f1ebc6c51d0efb0706fb9d4a6aec6b4c95dece29.jar" />
-    </item>
-    <item
-        jar="C:\Users\Amy\Desktop\WI Recycle\CodeOrange\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="C:\Users\Amy\Desktop\WI Recycle\CodeOrange\app\build\intermediates\pre-dexed\release\classes-69cb74b41b8d5042a7e0203b0b6b5cdb34b0256d.jar" />
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Amy\Desktop\Code-Orange\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-66c47267af7177a3364648b9555eed3b3de6d342.jar" />
     </item>
     <item
         jar="C:\Users\Amy\Desktop\Code-Orange\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
@@ -28,20 +21,6 @@
         revision="22.0.1"
         sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
         <dex dex="C:\Users\Amy\Desktop\Code-Orange\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-557a8190da0f2d34fc83e609a981062e0b886079.jar" />
-    </item>
-    <item
-        jar="C:\Users\Amy\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="C:\Users\Amy\Desktop\WI Recycle\CodeOrange\app\build\intermediates\pre-dexed\release\support-annotations-22.2.1-66c47267af7177a3364648b9555eed3b3de6d342.jar" />
-    </item>
-    <item
-        jar="C:\Users\Amy\Desktop\WI Recycle\CodeOrange\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="C:\Users\Amy\Desktop\WI Recycle\CodeOrange\app\build\intermediates\pre-dexed\release\classes-5e596166f937a469ee6567aca4daed541f38cce7.jar" />
     </item>
     <item
         jar="C:\Users\Amy\Desktop\Code-Orange\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
